@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BilloCity",
-    "slug": "BilloCity",
+    "name": "LCRN07-expense-tracker-app-expo",
+    "slug": "LCRN07-expense-tracker-app-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
